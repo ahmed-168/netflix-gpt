@@ -2,6 +2,10 @@
 
 - create React App
 - configure TailwindCSS
+- created folders for components and utils
+- created different component files such as Header, Body, Login, Browse as per features
+- installed react-router-dom dependency
+- routed paths to components like Login, Browse inside body component.
 
 ---
 
