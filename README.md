@@ -8,6 +8,8 @@
 - routed paths to components like Login, Browse inside body component.
 - Header completed for login page
 - working on sign in form
+- created sign in form
+- working on Sign Up form
 
 ---
 
