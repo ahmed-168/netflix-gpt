@@ -10,7 +10,7 @@ const Login = () => {
   const password = useRef(null);
   const fullName = useRef(null);
 
-  const handleButtonClick = (isSignInForm) => {
+  const handleButtonClick = () => {
     if (isSignInForm) {
       const message = checkSignInValidData(
         email.current.value,
@@ -23,7 +23,6 @@ const Login = () => {
         password.current.value,
         fullName.current.value
       );
-      console.log(fullName);
       setErrorMessage(message);
     }
   };

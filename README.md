@@ -12,6 +12,7 @@
 - working on Sign Up form
 - completed Sign up form
 - working on form validation and using useRef hook
+- validation completed
 
 ---
 
