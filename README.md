@@ -13,6 +13,11 @@
 - completed Sign up form
 - working on form validation and using useRef hook
 - validation completed
+- Firebase setup
+- deployed my app to production
+- create a signUp user account
+- implement sign in and sign up user API
+- created redux store with user slice
 
 ---
 
