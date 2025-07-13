@@ -20,6 +20,7 @@
 - created redux store with user slice
 - implemented sign out
 - update profile
+- fixing the update profile using dispatch when doing signup
 - fetch from TMDB Movies
 
 ---
